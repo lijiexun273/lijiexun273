@@ -2,15 +2,15 @@
 I'm an Economics Graduate Student
 I'm interested in financial markets, econometrics, machine learning, and data-driven research.
 
-#Research Interests
+# Research Interests
 - Financial Markets & International Capital Flows
 - Applied Econometrics & Time Series
 - Patent Data & Industrial Economics
 
-#Technical Skills
+# Technical Skills
 Python · SQL · MATLAB · Econometrics · Machine Learning
 
-#Featured Projects
+# Featured Projects
 - Robotics Patent Intelligence
 - US Treasury & Capital Flows
 - Hotel Cancellation Prediction
