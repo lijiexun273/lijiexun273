@@ -1,20 +1,27 @@
-## Hi there 👋
-I'm an Economics Graduate Student
-I'm interested in financial markets, econometrics, machine learning, and data-driven research.
+# Hi there 👋
 
-### Research Interests
-- Financial Markets & International Capital Flows
-- Applied Econometrics & Time Series
+I'm a graduate student in Economics with a strong interest in financial markets, applied econometrics, and data-driven research.
+
+My work focuses on combining economic theory, statistical modeling, and programming to analyze financial and industrial data.
+
+## Research Interests
+- International Finance & Capital Flows
+- Financial Markets & Fixed Income
+- Applied Econometrics & Time Series Analysis
+- Machine Learning & Predictive Analytics
 - Patent Data & Industrial Economics
 
-### Technical Skills
-Python · SQL · MATLAB · Econometrics · Machine Learning
+## Technical Skills
+- **Programming:** Python, SQL, MATLAB
+- **Econometrics:** Regression Analysis, Time Series, Panel Data
+- **Machine Learning:** Logistic Regression, Random Forest, Gradient Boosting
+- **Research:** Data Cleaning, Statistical Modeling, Data Visualization
 
-### Featured Projects
-- Robotics Patent Intelligence
-- US Treasury & Capital Flows
-- Hotel Cancellation Prediction
-- Portfolio Optimization
+## Featured Projects
+- **Robotics Patent Intelligence** — Patent data engineering and industrial classification
+- **US Treasury & Capital Flows** — International portfolio allocation and financial research
+- **Hotel Cancellation Prediction** — Machine learning and predictive modeling
+- **Portfolio Optimization** — Risk-return analysis and portfolio construction
 
 <!--
 **lijiexun273/lijiexun273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
